@@ -478,11 +478,6 @@ img {
   .contact__form {
     width: 380px;
   }
-  .footer__container {
-    -ms-grid-columns: (1fr)[3];
-    grid-template-columns: repeat(3, 1fr);
-    justify-items: center;
-  }
   .player__container{
   min-width: 1024px;
   margin-left: 450px;
@@ -502,6 +497,11 @@ img {
   }
   .Copy__p {
   font-size: 10px;
+  }
+  .footer__container {
+    -ms-grid-columns: (1fr)[3];
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
   }
 
 }
