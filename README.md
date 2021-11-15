@@ -1,1 +1,0 @@
-# TilekKulanbekov.github.io
